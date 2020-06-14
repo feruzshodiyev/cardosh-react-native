@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "rq-xpv",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}

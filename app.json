@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "CarDosh",
+    "slug": "cardosh-master",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/page.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 200000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "uz.aquila.CarDosh",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "uz.aquila.CarDosh",
+      "versionCode": 1,
+      "permissions" : [
+        "CAMERA",
+        "READ_CALENDAR",
+        "READ_PHONE_STATE"
+      ]
+    },
+    "description": ""
+
+
+  }
+}

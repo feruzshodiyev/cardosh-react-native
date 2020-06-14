@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350408670381",
+    "firebase_url": "https://cardosh-1562067402191.firebaseio.com",
+    "project_id": "cardosh-1562067402191",
+    "storage_bucket": "cardosh-1562067402191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350408670381:android:5ebcbf26d541f264b7da24",
+        "android_client_info": {
+          "package_name": "uz.aquila.CarDosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350408670381-8bn2thlc052ahsnvleumkal2jfr7ig6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbtMAQQUe6Is1B6uQ1rYpDMV7-kGMSmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350408670381-8bn2thlc052ahsnvleumkal2jfr7ig6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
