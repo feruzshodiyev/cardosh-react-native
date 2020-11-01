@@ -10,7 +10,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logo.png",
+    "icon": "./assets/logo.jpg",
     "splash": {
       "image": "./assets/page.png",
       "resizeMode": "cover",
@@ -23,7 +23,7 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "uz.aquila.CarDosh",
+      "bundleIdentifier": "uz.aquila.cardosh",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
